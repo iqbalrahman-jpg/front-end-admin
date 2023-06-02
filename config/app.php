@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://front-end-admin-env.eba-mf4qecey.ap-southeast-2.elasticbeanstalk.com/'),
 
     'asset_url' => env('ASSET_URL'),
 
